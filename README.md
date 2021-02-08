@@ -25,8 +25,8 @@ python webcam.py
 
 ![Blurred webcam image](https://github.com/memsb/FaceDetection/blob/main/faces/webcam_blurred.png?raw=true)
 ```
-python webcam.py --method pixelate`
-``
+python webcam.py --method pixelate
+```
 
 ![Pixelated webcam image](https://github.com/memsb/FaceDetection/blob/main/faces/webcam_pixelated.png?raw=true)
 
